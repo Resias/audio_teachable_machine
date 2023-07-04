@@ -1,0 +1,5 @@
+0 Back
+1 Go
+2 Left
+3 Right
+4 배경 소음
